@@ -1,0 +1,3 @@
+This is the first write file in Nodejs1. 
+Hello wriiting to new file1
+ New appnended text on new line
